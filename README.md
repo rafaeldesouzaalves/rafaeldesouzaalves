@@ -70,4 +70,3 @@ Estou **ativamente em busca de uma vaga de emprego** (estágio) para colocar em 
 |---------------------------|------------------------------------------------|------------------|------|
 | **Portfolio Moderno**     | Este próprio README + site em construção       | HTML, CSS, JS   | [Em breve] |
 
-https://github.com/rafaeldesouzaalves/rafaeldesouzaalves/blob/output/github-contribution-grid-snake.gif
