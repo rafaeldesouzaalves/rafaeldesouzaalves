@@ -5,7 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rafael%20de%20Souza%20Alves&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Banner"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaeldesouzaalves&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeldesouzaalves&theme=radical&hide_border=true" alt="Streak"/>
 </div>
 
