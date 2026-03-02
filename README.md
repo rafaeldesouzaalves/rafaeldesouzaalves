@@ -40,7 +40,7 @@ Estou **ativamente em busca de uma vaga de emprego** (estágio) para colocar em 
 
 ### Aprendendo agora
 - HTML5 (semântico + acessibilidade)
-- CSS3 (Flexbox, CSS Grid, variáveis, animações,)
+- CSS3 (Flexbox, CSS Grid, variáveis, animações)
 - Git & GitHub 
 - Design Responsivo (Mobile First)
 
